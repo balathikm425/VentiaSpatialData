@@ -1,0 +1,203 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Spatial_Data_NET_2021
+</name>
+</assembly>
+<members>
+<member name="T:Spatial_Data_NET.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.acad">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.ADO_Codelists">
+<summary>
+  Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!-- UNCLASSIFIED --&gt;
+&lt;!-- edited with XMLSPY v5 rel. 4 U (http://www.xmlspy.com) by Department of Defence (Department of Defence) --&gt;
+&lt;CT_CodelistCatalogue xmlns=&quot;http://www.isotc211.org/2005/gmx&quot;
+	xmlns:gco=&quot;http://www.isotc211.org/2005/gco&quot; xmlns:gml=&quot;http://www.opengis.net/gml&quot;
+	xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+	xsi:schemaLocation=&quot;http://www.isotc211.org/2005/gmx ../gmx/gmx.xsd http://www.isotc2 [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.ASCON_Plan_Checklist_V4_0">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.ASCON_Plan_Valueslist_V4_0">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.AutoCAD_MSP_Template">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.bmp3DToPoly">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.bmpASCON">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.bmpListXData">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.bmpMSP_Template">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.bmpMSP_Title">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Compliant_Data">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Drg_Reference">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.DSGPlacesCodelist">
+<summary>
+  Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;CT_DSGPlacesCatalogue xmlns=&quot;http://www.isotc211.org/2005/gmx&quot;
+xmlns:gco=&quot;http://www.isotc211.org/2005/gco&quot; xmlns:gmd=&quot;http://www.isotc211.org/2005/gmd&quot;
+xmlns:gml=&quot;http://www.opengis.net/gml&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;
+xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot;
+xsi:schemaLocation=&quot;http://www.isotc211.org/2005/gmx ../../gmx_DSG/DSG_gmx.xsd http://www.isotc211.org/2005/gmd ../../gmd/gmd.xsd http://www.isotc211.org/2005/gco ../../gco/gco.x [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.DWG_Compare">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.METIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.NotFound">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.OMM_Review">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Rename_File">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Replace_Block">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Spaces_Template">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Spatial_Data_Layers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.StructureNameErrors">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Structures">
+<summary>
+  Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;?mso-application progid=&quot;Excel.Sheet&quot;?&gt;
+&lt;Workbook xmlns=&quot;urn:schemas-microsoft-com:office:spreadsheet&quot;
+ xmlns:o=&quot;urn:schemas-microsoft-com:office:office&quot;
+ xmlns:x=&quot;urn:schemas-microsoft-com:office:excel&quot;
+ xmlns:ss=&quot;urn:schemas-microsoft-com:office:spreadsheet&quot;
+ xmlns:html=&quot;http://www.w3.org/TR/REC-html40&quot;&gt;
+ &lt;DocumentProperties xmlns=&quot;urn:schemas-microsoft-com:office:office&quot;&gt;
+  &lt;Author&gt;SAP WebAS&lt;/Author&gt;
+  &lt;LastAuthor&gt;BALA&lt;/LastAuthor&gt;
+  &lt;Revision&gt;1&lt;/Revision&gt;
+  &lt;Created&gt;202 [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Tick">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Ventia_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Ventia_MSP_Template">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Ventia_MSP_Template1">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.VentiaTemplate">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.XData_Editor">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:Spatial_Data_NET.My.Resources.Resources.Xref_Data">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+</members>
+</doc>
